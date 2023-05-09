@@ -71,6 +71,10 @@ Item 3> Here we have created our subnet automatically.
 </p>
 
 <p>
+<img src="https://i.imgur.com/50WDtVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
 4> Installation of dependencies for osTicket System 
 </p>
 
