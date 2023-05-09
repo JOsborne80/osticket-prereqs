@@ -71,14 +71,14 @@ Item 3> Here we have created our subnet automatically.
 </p>
 
 <p>
-4>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+4> Installation of dependencies for osTicket System 
 </p>
 
 
 <p>
-5>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+5> Install osTicket on VM
 </p>
 
 <p>
-6>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+6>Thank you for taking the time out of your day to look at the growth I have my in my IT journey displayed throught this portfolio project!
 </p>
