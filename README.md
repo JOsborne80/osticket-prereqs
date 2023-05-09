@@ -136,7 +136,11 @@ Item 3> Here we have created our subnet automatically.
 
 </p>
 > Pre-Installation continued. 
-  Next we configure IIS as an admin by registering a new PHP version to C:\PHP-cgi.exe. 
+  Install osTicket and get the upload file from going in and xfer this file to the c:\inetpub\wwwroot folder. In IIS go to PHP manager under osTicket. Enabale the following extensions php_imap.dill, php_intl.dill, php_opcache.dill.
+</p>
+
+<p>
+<img src="https://i.imgur.com/SF8kM7P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
