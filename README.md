@@ -55,15 +55,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/wqxNQGw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The process of going through the preinstalation steps gets easier with time. I find it quite enjoyable now that navigating thorought the Azure portal is more like seeing a familiar face. 
 </p>
 <br />
 
 
 <p>
-3>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+Item 3> Here we have created our subnet automatically. 
 </p>
-
+<p>
+<img src="https://i.imgur.com/vHmHSV1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
 4>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
