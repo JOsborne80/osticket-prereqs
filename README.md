@@ -58,3 +58,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+
+<p>
+3>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+</p>
+
+
+<p>
+4>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+</p>
+
+
+<p>
+5>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+</p>
+
+<p>
+6>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+</p>
