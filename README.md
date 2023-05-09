@@ -76,8 +76,12 @@ Item 3> Here we have created our subnet automatically.
 
 <p>
 4> Installation of dependencies for osTicket System 
+  In order to install dependancies it requires me to Remote Desktop into the VM. 
 </p>
 
+<p>
+<img src="https://i.imgur.com/zekTp3b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
 5> Install osTicket on VM
