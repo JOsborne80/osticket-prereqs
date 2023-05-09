@@ -110,6 +110,14 @@ Item 3> Here we have created our subnet automatically.
 <img src="https://i.imgur.com/rLbwxFD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+</p>
+> Pre-Installation continued. 
+  Next we download MySql Server. 
+</p>
+
+<p>
+<img src="https://i.imgur.com/ZyyeoL2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 <p>
