@@ -94,7 +94,7 @@ Item 3> Here we have created our subnet automatically.
 
 </p>
 > Pre-Installation continued. 
-  In order to make sure our selections are correct for IIS we put in a loopback to get the ISS page. Next we install PHP Manager for IIS.Next we download the Rewrite Module.
+  In order to make sure our selections are correct for IIS we put in a loopback to get the ISS page. Next we install PHP Manager for IIS.Next we download the Rewrite Module Create a C: folder and call it PHP.Unzip php contents file into PHP folder. 
 </p>
 
 <p>
