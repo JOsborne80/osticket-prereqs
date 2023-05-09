@@ -76,7 +76,7 @@ Item 3> Here we have created our subnet automatically.
 
 <p>
 4> Installation of dependencies for osTicket System 
-  In order to install dependancies it requires me to Remote Desktop into the VM. 
+  In order to install dependancies it requires me to Remote Desktop into the VM. Once we are in our VM we need to enable IIS (Internet Information Services)with CGI. 
 </p>
 
 <p>
