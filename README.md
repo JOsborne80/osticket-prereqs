@@ -163,6 +163,17 @@ Item 3> Here we have created our subnet automatically.
 
 
 
+</p>
+> Pre-Installation continued. 
+  We are going to create a new connection so click new. Now we are connected to MySQL Server. 
+</p>
+
+<p>
+<img src="https://i.imgur.com/uNRrlf2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
 <p>
 5> Install osTicket on VM
 </p>
