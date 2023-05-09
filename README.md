@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
   Note: I already have an Azure Tenant created as well as an active subscription.  
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1> Creating a resource group
+- Item 2> Create VM for Virtual Network  
+- Item 3> Create Subnet
+- Item 4> Installation of dependencies for osTicket System 
+- Item 5> Install osTicket on VM
 
 <h2>Installation Steps</h2>
 
