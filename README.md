@@ -143,7 +143,7 @@ Item 3> Here we have created our subnet automatically.
   Next we will change the file to allow permissions for everyone.
   
   
-  Fill out osTicket Basic Installation information. 
+  Fill out osTicket Basic Installation information. Leave the Database Settings information for a bit later. 
 </p>
 
 <p>
@@ -165,7 +165,9 @@ Item 3> Here we have created our subnet automatically.
 
 </p>
 > Pre-Installation continued. 
-  We are going to create a new connection so click new. Now we are connected to MySQL Server. 
+  We are going to create a new connection so click new. Now we are connected to MySQL Server. Right click on Unamed Data Base to Creat new database and named osTicket. 
+  
+  GO BACK to os Installer to finish putting in the Database Settings information. 
 </p>
 
 <p>
