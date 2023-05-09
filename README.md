@@ -140,11 +140,25 @@ Item 3> Here we have created our subnet automatically.
   C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.ph rename to 
   ost-config.ph.
   
-  Next we will change the file to allow permissions for everyone. 
+  Next we will change the file to allow permissions for everyone.
+  
+  
+  Fill out osTicket Basic Installation information. 
 </p>
 
 <p>
 <img src="https://i.imgur.com/bdvKgWK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+</p>
+> Pre-Installation continued. 
+  Next we download HeidiSQL for connection our database.
+</p>
+
+
+<p>
+<img src="https://i.imgur.com/4m32RTj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 
