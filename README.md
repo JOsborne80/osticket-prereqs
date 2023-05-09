@@ -80,6 +80,11 @@ Item 3> Here we have created our subnet automatically.
 </p>
 
 <p>
+<img src="https://i.imgur.com/uRGBZ8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+<p>
 <img src="https://i.imgur.com/zekTp3b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
