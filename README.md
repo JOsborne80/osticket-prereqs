@@ -127,12 +127,19 @@ Item 3> Here we have created our subnet automatically.
 
 </p>
 > Pre-Installation continued. 
-  Next we register a new PHP version to C:\PHP-cgi.exe. 
+  Next we configure IIS as an admin by registering a new PHP version to C:\PHP-cgi.exe. 
 </p>
 
 <p>
 <img src="https://i.imgur.com/SF8kM7P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+</p>
+> Pre-Installation continued. 
+  Next we configure IIS as an admin by registering a new PHP version to C:\PHP-cgi.exe. 
+</p>
+
+
 
 <p>
 5> Install osTicket on VM
