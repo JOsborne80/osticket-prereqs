@@ -66,6 +66,9 @@ Item 3> Here we have created our subnet automatically.
 <p>
 <img src="https://i.imgur.com/vHmHSV1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+<img src="https://i.imgur.com/NUCp9jO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 <p>
 4>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
