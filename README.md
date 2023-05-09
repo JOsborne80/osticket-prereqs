@@ -92,6 +92,25 @@ Item 3> Here we have created our subnet automatically.
 <img src="https://i.imgur.com/vPGiXb0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
+</p>
+> Pre-Installation continued. 
+  In order to make sure our selections are correct for IIS we put in a loopback to get the ISS page. Next we install PHP Manager for IIS.Next we download the Rewrite Module.
+</p>
+
+<p>
+<img src="https://i.imgur.com/giJxLm9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+</p>
+> Pre-Installation continued. 
+  Next we download C++ redistributable. 
+</p>
+
+<p>
+<img src="https://i.imgur.com/rLbwxFD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
 
 <p>
 5> Install osTicket on VM
