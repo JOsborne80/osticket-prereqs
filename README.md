@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/4H6LiM8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I have here where the subscription is present. I then created a resource group called RG-osTicket. 
+>I have here where the subscription is present. I then created a resource group called RG-osTicket. 
 </p>
 <br />
 
@@ -47,7 +47,7 @@ I have here where the subscription is present. I then created a resource group c
 </p>
 
 <p>
-Next up we have the task of creating our virtual machine. 
+>Next up we have the task of creating our virtual machine. 
 </p>
 <br />
 
