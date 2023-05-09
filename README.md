@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-
+  Note: I already have an Azure Tenant created as well as an active subscription.  
 - Item 1
 - Item 2
 - Item 3
