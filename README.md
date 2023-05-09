@@ -43,7 +43,7 @@ I have here where the subscription is present. I then created a resource group c
 </p>
 
 <p>
-<img src="https://i.imgur.com/lLpSzBV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uHtZrC8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
