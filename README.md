@@ -186,10 +186,12 @@ Item 3> Here we have created our subnet automatically.
 
 
 <p>
-5> Install osTicket on VM
+5> Finally finish installing osTicket on VM by putting in you credentials. 
 </p>
 
-
+<p>
+<img src="https://i.imgur.com/0qt1rLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
 
