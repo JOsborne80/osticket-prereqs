@@ -176,7 +176,7 @@ Item 3> Here we have created our subnet automatically.
 
 </p>
 > Pre-Installation continued. 
-  We are going to change the permissions on file ost-config.php.
+  We are going to change the permissions on file ost-config.php to read and execute. 
   
 </p>
 
