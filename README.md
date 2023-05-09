@@ -83,15 +83,22 @@ Item 3> Here we have created our subnet automatically.
 <img src="https://i.imgur.com/uRGBZ8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
 <p>
-<img src="https://i.imgur.com/zekTp3b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y0NTOdS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 5> Install osTicket on VM
 </p>
 
+
+
+
+
+
+
 <p>
 6>Thank you for taking the time out of your day to look at the growth I have my in my IT journey displayed throught this portfolio project!
 </p>
+
+
